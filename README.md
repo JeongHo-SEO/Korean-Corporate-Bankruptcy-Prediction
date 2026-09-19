@@ -98,5 +98,4 @@ The reduced-feature ensemble performed best in the non-time-series experiment. M
 
 - Team presentation: [PDF](Final_presentation/Final_team_01.pdf) · [PPTX](Final_presentation/Final_team_01.pptx).
 - [My final notebook](Final_4/Final_Models_jeongho.ipynb): final classification experiments and recorded results.
-- [My analysis notes](docs/MY_ANALYSIS.md): all seven notebooks, development history, exact implementation details, and qualifications.
-- [Data folder](https://drive.google.com/drive/folders/1xg4F7QOyplY8FjgkEeuGWM3J5HGByMeh?usp=sharing)
+- [Dataset download](https://drive.google.com/drive/folders/1xg4F7QOyplY8FjgkEeuGWM3J5HGByMeh?usp=sharing)
