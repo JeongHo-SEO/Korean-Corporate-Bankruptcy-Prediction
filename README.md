@@ -3,7 +3,7 @@
 *재무정보를 활용한 한국 기업의 부도예측*
 
 **Seoul National University · Data Mining Methods and Lab · Spring 2025**  
-Four-person team project · Instructor: Prof. Yongdai Kim
+Four-person team project · Instructor: [Prof. Yongdai Kim](https://idea.snu.ac.kr/member/%EA%B9%80%EC%9A%A9%EB%8C%80/)
 
 **My role (Jeong-Ho SEO):** **Non-time-series and time-series** classification, including preprocessing experiments, sampling, model comparison, ensembles, and Random Forest feature importance. Other team members contributed *survival analysis* and broader feature analysis.
 
